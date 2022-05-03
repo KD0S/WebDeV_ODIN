@@ -188,3 +188,34 @@ img{
     padding: 2%;
 }
 
+
+.about-heading{
+   text-align: center;
+   color: #E5E7EB;
+   font-size: 48px;
+}
+
+.about-p{
+    color:#3882F6;
+    text-align: center;
+    padding: 10%;
+    border: solid white;
+    margin: 5%;
+}
+
+.contact-heading{
+    text-align: center;
+   color: #E5E7EB;
+   font-size: 48px;
+}
+
+.contact-list{
+    color:#3882F6;
+    margin-left: 45%;
+
+}
+
+.contact-submit{
+    margin-left: 45%;
+    box-sizing: border-box;
+}
